@@ -71,7 +71,7 @@ int  readExpression(void) {
 }
 
 int main(void) {
-
+    printf("%d", readExpression());
 
     return EXIT_SUCCESS;
 }
